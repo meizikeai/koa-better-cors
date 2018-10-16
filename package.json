@@ -1,0 +1,29 @@
+{
+  "name": "koa-better-cors",
+  "version": "0.0.1",
+  "description": "cors middleware for Koa",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meizikeai/koa-better-cors.git"
+  },
+  "keywords": [
+    "koa",
+    "koa2",
+    "cors",
+    "koa-cors",
+    "koa-better-cors"
+  ],
+  "author": "meizikeai@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meizikeai/koa-better-cors/issues"
+  },
+  "homepage": "https://github.com/meizikeai/koa-better-cors",
+  "devDependencies": {},
+  "dependencies": {}
+}
